@@ -14,7 +14,9 @@
 ### Direct Link
 https://i.imgur.com/oFU0O6a.gifv 
 
-<img src="https://imgur.com/oFU0O6a" width=500><br>
+<img src="https://imgur.com/oFU0O6a" width=250><br>
+
+<iframe class="imgur-embed" width="100%" height="1300" frameborder="0" src="https://i.imgur.com/oFU0O6a.gifv#embed"></iframe>
 
 ### Notes
 Challenges were creating a close to borderless edges within the grid collection view. Overall the assignment was super fun. I ran most of the project on my iPhone as well as recorded my screen on my cellphone.
