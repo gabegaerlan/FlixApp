@@ -1,6 +1,3 @@
-
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
-
 ## Flix Part 2
 
 ### User Stories
@@ -14,9 +11,10 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+### Direct Link
+https://i.imgur.com/oFU0O6a.gifv 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://i.imgur.com/oFU0O6a.gifv" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Challenges were creating a close to borderless edges within the grid collection view. Overall the assignment was super fun. I ran most of the project on my iPhone as well as recorded my screen on my cellphone.
